@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Amirhossein Sedigh Daemi
 I'm a passionate Frontend Developer based in Berlin, Germany. With over 3 years of experience in building high-quality web applications, I specialize in JavaScript, React.js, and TypeScript.
 
-###🔧 Skills
+🔧 ### Skills
 - Frontend: JavaScript, TypeScript, ReactJS, Redux, HTML, CSS
 - Backend: Node.js
 - Tools: Git, Jira
