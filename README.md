@@ -13,7 +13,7 @@ I'm a passionate Frontend Developer based in Berlin, Germany. With over 3 years 
 - **[Iran Roti](https://iranroti.com):** Single-page site for coffee machines.
 - **[Vahoora](https://vahoora.com):** Personal portfolio site for an artist.
 - **[BlackBoxFactory](https://blackboxfactory.com):** Horizontally scrolling site for an architecture firm.
-- 
+  
 ### 🚀 What I Do
 - Develop user-friendly and responsive web applications.
 - Improve code maintainability and reduce errors through TypeScript.
