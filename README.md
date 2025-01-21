@@ -11,7 +11,6 @@ I'm a passionate Frontend Developer based in Berlin, Germany. With over 4 years 
 - **[SSA](https://shahdarad.com):** E-commerce platform with Next.js and Strapi.
 - **[Iconic Taste USA](https://iconictasteusa.com):** Product showcase site with Gatsby and Strapi.
 - **[Iran Roti](https://iranroti.com):** Single-page site for coffee machines.
-- **[Vahoora](https://vahoora.com):** Personal portfolio site for an artist.
 - **[BlackBoxFactory](https://blackboxfactory.com):** Horizontally scrolling site for an architecture firm.
   
 ### 🚀 What I Do
