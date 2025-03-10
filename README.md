@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amirhossein Sedigh Daemi, known as AmSdmi
+# 👋 Hi, I'm A20i
 
 I'm a passionate Frontend Developer based in Berlin, Germany. With over 4 years of experience in building high-quality web applications, I specialize in JavaScript, React.js, and TypeScript.
 
